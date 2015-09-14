@@ -1,0 +1,22 @@
+.hs_cfa_label
+{
+float: left;
+font-weight: bold;
+color: #DB4040;
+font-size: 12px;
+}
+.hs_cfa_text {
+width: 144px;
+margin: -4px 0px 0px 21px;
+height: 30px;
+padding-left: 7px;
+}
+ .hs_cfa_text:active{
+  -webkit-box-shadow: inset 0 1px 5px rgba(0, 0, 0, 0.4), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 5px rgba(0, 0, 0, 0.4), 0 1px rgba(255, 255, 255, 0.1);
+  } 
+  #hs_template_preview {
+cursor: pointer;
+font-weight: bold;
+color: rgb(0, 41, 255);
+}
